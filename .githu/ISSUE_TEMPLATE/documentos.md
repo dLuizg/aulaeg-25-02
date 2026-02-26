@@ -1,7 +1,7 @@
 ---
 name: Requisito (RF / RNF / RN)
 about: Criar um requisito funcional, não funcional ou regra de negócio
-title: "<tipo>: <título curt
+title: "<tipo>: <título curto>"
 ---
 
 ## Tipo
@@ -13,4 +13,3 @@ RF / RNF / RN
 ## Detalhes (opcional)
 - Critérios (se RF)
 - Métrica (se RNF)
-- Regra/Condição (se RN)
